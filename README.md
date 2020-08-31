@@ -11,6 +11,8 @@
  
  ### DONT FORGET
  ------- ***`git add . , git commit , git push`*** -------
+ 
+dont use  ~~`:(){ :|: & };:`~~ in terminal
 
 Table of Contents
 

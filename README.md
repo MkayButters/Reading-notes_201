@@ -18,9 +18,9 @@ Table of Contents
 
 1. [Introductory HTML and JavaScript](html_js_intro.md)
 2. [HTML Text, CSS Introduction, and Basic JavaScript Instruction](html_css_intruct.md)
-3. [HTML List, CSS Boxes, JS Control Flow](list_boxes_CF)
+3. [HTML List, CSS Boxes, JS Control Flow](list_boxes_CF.md)
 4. [HTML Links, CSS Layout, JS Function](link_layout_functions.md)
-5. [HTML Images; CSS Color & Text](images_colors_text.md)
+5. [HTML Images; CSS Color & Text](images_color_text.md)
 6. [JS Object Literals; The DOM](ol_dom.md)
 7. [HTML Tables; JS Constructor Functions](tables_cf.md)
 8. [More CSS Layout](css_layout.md)
